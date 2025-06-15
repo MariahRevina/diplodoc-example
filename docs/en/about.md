@@ -1,4 +1,4 @@
-# Basic "About page" 
+# Basic "About page" for workshop
 
 This is an example for basic documenation project.
 It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
